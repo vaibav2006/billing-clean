@@ -1,0 +1,8 @@
+# Ignore NetBeans build artifacts
+build/
+dist/
+*.class
+*.jar
+*.log
+*.iml
+nbproject/private/
